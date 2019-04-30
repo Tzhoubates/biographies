@@ -1,0 +1,3 @@
+This is the first line about me, I'm a Bates Student (for now).
+This is the second line about me, I'm a Physics student (for now).
+This is the third line about me, well, just whatever.
